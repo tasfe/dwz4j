@@ -1,0 +1,4 @@
+BusinessFactory 可得到 Business Object Manager 和 Configuration.一个 Business Object Manager管理一个或多个Business Object.
+
+业务逻辑都从BusinessFactory开始,先取取到某个BusinessObjectManager,再由
+BusinessObjectManager来操作业务对象. 
