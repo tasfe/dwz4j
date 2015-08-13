@@ -1,0 +1,1 @@
+BusinessObjectManager是业务的核心,业务逻辑基本都在 BusinessObjectManager中.
